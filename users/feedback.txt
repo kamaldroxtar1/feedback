@@ -1,0 +1,9 @@
+
+
+1
+Full Time
+<br /><b>Notice</b>:  Undefined variable: Jo in <b>C:\xampp\htdocs\feedback\second.php</b> on line <b>112</b><br />
+<br /><b>Notice</b>:  Undefined variable: Re in <b>C:\xampp\htdocs\feedback\second.php</b> on line <b>119</b><br />
+<br /><b>Notice</b>:  Undefined variable: Pr in <b>C:\xampp\htdocs\feedback\second.php</b> on line <b>126</b><br />
+<br /><b>Notice</b>:  Undefined variable: Cons in <b>C:\xampp\htdocs\feedback\second.php</b> on line <b>133</b><br />
+<br /><b>Notice</b>:  Undefined variable: Adv in <b>C:\xampp\htdocs\feedback\second.php</b> on line <b>140</b><br />
